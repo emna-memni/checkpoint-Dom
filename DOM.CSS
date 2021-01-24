@@ -1,0 +1,41 @@
+i{
+    cursor: pointer;
+}
+.carousel-inner{
+    height: 500px;
+}
+.text-part{
+    font-size: 30px;
+    color: black;  
+    text-overflow: clip;
+}
+    
+.shopping-card-containe{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin:50px 0;
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+}
+
+.card-body i {
+    font-size: 30px ;
+    color: #0e0d0d;
+    padding: 13px;
+   
+   
+}
+
+.fas fa-trash-alt{
+    font-size: 30px ;
+    color: brown ;
+    padding: 0px;
+}
+.qte{
+    font-size: 20;
+    color: black;
+}
